@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "603dab07a47d012c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d498b68584bf9ec8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1.总览.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c204b5c5f8be897e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ce5710819cd8355",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93082a22bed433db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a812893300fa620",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af91cd6fdfe12db6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b704df99bc03dda7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "681fb90dddec9d2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.总览.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d498b68584bf9ec8",
+  "lastOpenFiles": [
+    "1.总览.md",
+    "基础知识/函数与原型链.md"
+  ]
+}
