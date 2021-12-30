@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1.总览.md",
+            "file": "基础知识/函数与原型链.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.总览.md",
+                "file": "基础知识/函数与原型链.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "d498b68584bf9ec8",
   "lastOpenFiles": [
-    "1.总览.md",
-    "基础知识/函数与原型链.md"
+    "基础知识/函数与原型链.md",
+    "1.总览.md"
   ]
 }
